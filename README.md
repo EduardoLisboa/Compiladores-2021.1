@@ -3,12 +3,14 @@
 Repositório para a disciplina de Compiladores da Universidade Federal de Alagoas, período 2021.1
 
 Alunos:
+- [Ana Carolina Nesso Guedes][github-carol]
 - [Eduardo Antônio de Lucena Lisboa][github-lisboa]
-- [Jonathas Patrick Hermenegildo de Azevedo][github-patrick]
+- Guilherme Melo de Medeiros
 
 
 
 
 <!-- LINKS -->
+[github-carol]: https://github.com/carolnesso
 [github-lisboa]: https://github.com/EduardoLisboa
-[github-patrick]: https://github.com/PatrickStyle66
+
