@@ -5,7 +5,7 @@ Repositório para a disciplina de Compiladores da Universidade Federal de Alagoa
 Alunos:
 - [Ana Carolina Nesso Guedes][github-carol]
 - [Eduardo Antônio de Lucena Lisboa][github-lisboa]
-- Guilherme Melo de Medeiros
+- [Guilherme Melo de Medeiros][github-guilherme]
 
 
 
@@ -13,4 +13,5 @@ Alunos:
 <!-- LINKS -->
 [github-carol]: https://github.com/carolnesso
 [github-lisboa]: https://github.com/EduardoLisboa
+[github-guilherme]: https://github.com/Guilherme-MdM
 
